@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alexx1105
-- 👀 I’m interested in developing iOS and macOS apps in swift, and machine learning in python
+- 👀 I’m interested in developing iOS and macOS apps in swift
 - 🌱 I’m currently learning ... machine learning
 - 💞️ I’m looking to collaborate on ... Any iOS/MacOS apps 
 - 📫 How to reach me ...  www.linkedin.com/in/alex-haidar-a02444288
